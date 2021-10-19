@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "local": "sls offline start",
+    "deploy": "sls deploy"
+  }
+}
